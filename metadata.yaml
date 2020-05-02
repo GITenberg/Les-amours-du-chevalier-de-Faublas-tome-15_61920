@@ -1,5 +1,5 @@
 _repo: Les-amours-du-chevalier-de-Faublas-tome-15_61920
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Fournier, Hippolyte
@@ -17,6 +17,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/%C3%89douard-Henri_Avril
     - https://fr.wikipedia.org/wiki/Paul_Avril
+covers:
+- cover_type: archival
+  image_path: 61920-h/images/cover.jpg
 creator:
   author:
     agent_name: Louvet de Couvray, Jean-Baptiste
@@ -33,6 +36,8 @@ creator:
     - https://en.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvrai
     - https://fr.wikipedia.org/wiki/Jean-Baptiste_Louvet_de_Couvray
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61920#Les-amours-du-chevalier-de-Faublas-tome-15
 gutenberg_bookshelf:
 - FR Séduction et libertinage
 - FR Nouveautés
